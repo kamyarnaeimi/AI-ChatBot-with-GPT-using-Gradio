@@ -46,9 +46,3 @@ Example:
 messages = [
     {"role": "system", "content": "You are a marketing expert. Give practical examples in marketing."}
 ]
-# Folder Structure
-ai-chatbot-gradio/
-│
-├─ app.py          # Main Gradio application
-├─ requirements.txt
-└─ README.md
